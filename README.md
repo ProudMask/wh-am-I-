@@ -1,20 +1,18 @@
-# who am I? 
-a sneak peak of who I'm and what I can do 
+# Haneen Al-Arfaj: Embracing Versatility
+I'm Haneen Al-Arfaj, a dynamic professional navigating through the realms of business analysis within a ship chandlers and maritime services company in Dubai. With a background in DevOps engineering, I've honed a diverse skill set, allowing me to adapt to new challenges seamlessly.
 
 # Jack of all trades 
-
 I am a versatile and highly adaptable individual with a wide range of skills and expertise. My ability to learn quickly and take on new challenges makes me a valuable asset to any team.
 
 ## Skills
-- Automation: Ansible. 
-- Continuous integration and delivery: Github Actions
-- Cloud infrastructure: Microsoft Azure
-- Web development: HTML, CSS, JavaScript.
-- Data analysis: SQL, Python, NumPy
-- Project management: Agile methodologies, Trello
-- Pharmacuetical sciences.
-- Law in Information technology
-- Research and drafting. 
+- Business Analysis: Analyzing maritime services, ship chandling operations, and leveraging technology for streamlined processes.
+- DevOps Expertise: Automation using tools like Ansible, managing CI/CD workflows with GitHub Actions, and cloud infrastructure deployment on Microsoft Azure.
+- Web Development Fundamentals: Proficiency in HTML, CSS, and JavaScript for potential software or interface enhancements.
+- Data Analysis: Utilizing SQL, Python, and NumPy for information interpretation and strategic decision-making.
+- Project Management: Implementing Agile methodologies and utilizing platforms like Trello for organized and efficient project workflows.
+- Understanding of Pharmaceutical Sciences: Valuable insights that might contribute to relevant aspects within the maritime industry.
+- Legal Knowledge in Information Technology: Understanding the legal implications and requirements within the tech sphere.
+- Research and Documentation: Proficient in research methodologies and drafting reports, potentially useful for various aspects within the maritime services. 
 
 ## Projects
 
