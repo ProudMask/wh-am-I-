@@ -1,30 +1,29 @@
 # Haneen Al-Arfaj: Embracing Versatility
-I'm Haneen Al-Arfaj, a dynamic professional navigating through the realms of business analysis within a ship chandlers and maritime services company in Dubai. With a background in DevOps engineering, I've honed a diverse skill set, allowing me to adapt to new challenges seamlessly.
+Hey there! 👋 I'm Haneen Al-Arfaj, currently rocking the world of business analysis at a ship chandlers and maritime services company in the vibrant city of Dubai. Formerly, I danced in the tech world as a DevOps engineer, and I must say, the transition has been quite the journey!.
 
-# Jack of all trades 
-I am a versatile and highly adaptable individual with a wide range of skills and expertise. My ability to learn quickly and take on new challenges makes me a valuable asset to any team.
-
+# Jack of all trades 🛠️
+I pride myself on being a versatile and adaptable individual. I've got a bag of skills and experiences that make me the go-to person for tackling various challenges. Quick learner? Check. Problem-solver? Absolutely.
 ## Skills
-- Business Analysis: Analyzing maritime services, ship chandling operations, and leveraging technology for streamlined processes.
-- DevOps Expertise: Automation using tools like Ansible, managing CI/CD workflows with GitHub Actions, and cloud infrastructure deployment on Microsoft Azure.
-- Web Development Fundamentals: Proficiency in HTML, CSS, and JavaScript for potential software or interface enhancements.
-- Data Analysis: Utilizing SQL, Python, and NumPy for information interpretation and strategic decision-making.
-- Project Management: Implementing Agile methodologies and utilizing platforms like Trello for organized and efficient project workflows.
-- Understanding of Pharmaceutical Sciences: Valuable insights that might contribute to relevant aspects within the maritime industry.
-- Legal Knowledge in Information Technology: Understanding the legal implications and requirements within the tech sphere.
-- Research and Documentation: Proficient in research methodologies and drafting reports, potentially useful for various aspects within the maritime services. 
+- Business Analysis: Diving deep into maritime services and ship chandling operations, using tech for smoother sailing.
+- DevOps Expertise: From Ansible automation to GitHub Actions for CI/CD, and even setting sail in the clouds with Microsoft Azure.
+- Web Development Fundamentals: Crafting in HTML, styling with CSS, and sprinkling JavaScript magic for potential software enhancements.
+- Data Analysis: Crunching numbers with SQL, Python, and NumPy for strategic decision-making.
+- Project Management: Agile methodologies and Trello are my trusty companions for organized project workflows.
+- Pharmaceutical Sciences: Yep, I bring insights from a different realm that could spice things up in maritime.
+- Legal Know-how in IT: Navigating the legal waters of the tech sphere – because compliance matters.
+- Research and Documentation: I'm your person for thorough research and creating reports that pack a punch.
 
 ## Projects
 
 ### Continuous Deployment Pipeline
-- Description: Implemented a continuous deployment pipeline for a web application using Azure Pipelines
+- Description: Making waves with a continuous deployment pipeline for a web app using Azure Pipelines.
 - Technologies: Azure Pipelines
 
 ### Infrastructure as Code
-- Description: Automated the provisioning of infrastructure using Ansible.
+- Description: Automating infrastructure provisioning with the magical touch of Ansible.
 - Technologies: Ansible
 
 ## Education
 - Bachelor of Science in Information Technology, Ajman University University
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/haneen-al-arfaj-0145a6130/) to learn more about my experience and skills.
+let us connect on [LinkedIn](https://www.linkedin.com/in/haneen-al-arfaj-0145a6130/)  if you want the full scoop on my adventures in business and tech. Cheers to versatility and smooth sailing! 🌊✨
