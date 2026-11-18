@@ -1,29 +1,41 @@
-# Haneen Al-Arfaj: Embracing Versatility
-Hey there! 👋 I'm Haneen Al-Arfaj, currently rocking the world of business analysis at a ship chandlers and maritime services company in the vibrant city of Dubai. Formerly, I danced in the tech world as a DevOps engineer, and I must say, the transition has been quite the journey!.
+# Haneen Al-Arfaj
 
-# Jack of all trades 🛠️
-I pride myself on being a versatile and adaptable individual. I've got a bag of skills and experiences that make me the go-to person for tackling various challenges. Quick learner? Check. Problem-solver? Absolutely.
-## Skills
-- Business Analysis: Diving deep into maritime services and ship chandling operations, using tech for smoother sailing.
-- DevOps Expertise: From Ansible automation to GitHub Actions for CI/CD, and even setting sail in the clouds with Microsoft Azure.
-- Web Development Fundamentals: Crafting in HTML, styling with CSS, and sprinkling JavaScript magic for potential software enhancements.
-- Data Analysis: Crunching numbers with SQL, Python, and NumPy for strategic decision-making.
-- Project Management: Agile methodologies and Trello are my trusty companions for organized project workflows.
-- Pharmaceutical Sciences: Yep, I bring insights from a different realm that could spice things up in maritime.
-- Legal Know-how in IT: Navigating the legal waters of the tech sphere – because compliance matters.
-- Research and Documentation: I'm your person for thorough research and creating reports that pack a punch.
+**Business analytics · Python · Reproducible analytical workflows**
 
-## Projects
+My background spans data analysis, business analysis, and DevOps, including work in maritime services and oil and gas. I am developing a portfolio focused on statistical modeling, machine learning, and the practical decisions that analysis can support.
 
-### Continuous Deployment Pipeline
-- Description: Making waves with a continuous deployment pipeline for a web app using Azure Pipelines.
-- Technologies: Azure Pipelines
+I care about clear problem definitions, reproducible methods, and evidence that a result is useful.
 
-### Infrastructure as Code
-- Description: Automating infrastructure provisioning with the magical touch of Ansible.
-- Technologies: Ansible
+## Selected public projects
 
-## Education
-- Bachelor of Science in Information Technology, Ajman University University
+| Project | What it demonstrates | Current scope |
+| --- | --- | --- |
+| [ScentMatcher](https://github.com/ProudMask/ScentMatcher) | A Flask application that ranks perfume alternatives by shared fragrance notes using Jaccard similarity, with explained matches and a repeatable demo | An interpretable content-based baseline; recommendation relevance has not yet been evaluated |
+| [SeaTracker Pro](https://github.com/ProudMask/sea-tracker-pro) | A local vessel-proximity API and client with kilometer-based distance calculations, input validation, and JSON reports | A synthetic maritime-data prototype; not live tracking or arrival forecasting |
 
-let us connect on [LinkedIn](https://www.linkedin.com/in/haneen-al-arfaj-0145a6130/)  if you want the full scoop on my adventures in business and tech. Cheers to versatility and smooth sailing! 🌊✨
+Each repository includes setup instructions, examples, tests, and limitations. Synthetic demonstration outputs are identified separately from real-world evaluation.
+
+## Current development focus
+
+I am strengthening the foundations for a statistical modeling and ML portfolio:
+
+- Data preparation and validation with explicit assumptions.
+- Interpretable baselines before more complex methods.
+- Reproducible experiments, diagnostic checks, and error analysis.
+- Clear documentation of what a project demonstrates and where it falls short.
+
+## Planned modeling case studies
+
+These are planned directions, not completed projects:
+
+| Case study | Intended evidence |
+| --- | --- |
+| Demand forecasting and inventory decisions | Chronological backtesting, baseline comparisons, prediction intervals, and simulated inventory outcomes |
+| Statistical inference for a business question | Effect estimates, confidence intervals, assumption checks, and sensitivity analysis |
+| Evaluated product matching | Labeled relevance data, ranking metrics, difficult specification mismatches, and a manual-review option |
+
+## Technical background
+
+Python, SQL, Excel, and data analysis form the analytical foundation of my work. My DevOps background adds experience with automation, version control, and repeatable workflows.
+
+[Browse my repositories](https://github.com/ProudMask?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/haneen-al-arfaj-0145a6130/)
